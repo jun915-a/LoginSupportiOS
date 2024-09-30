@@ -1,0 +1,8 @@
+# Xcode
+DerivedData/
+build/
+
+# その他不要なファイル
+*.xcuserdata
+*.xcuserstate
+*.DS_Store
